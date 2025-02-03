@@ -36,8 +36,8 @@ Welcome to **Foundations of Machine Learning** - your gateway to understanding c
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/Komal-Khan-PhD/foundations-of-ml.git
-cd foundations-of-ml
+git clone https://github.com/Komal-Khan-PhD/Foundations-of-Machine-Learning.git
+cd Foundations-of-Machine-Learning
 ```
 
 ### **Step 2: Install Requirements**
@@ -59,7 +59,7 @@ jupyter notebook
 📚 Want to add new notebooks?  
 
 ➡️ Open an **Issue** or submit a **Pull Request**!  
-*(See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines)*
+
 
 ---
 
